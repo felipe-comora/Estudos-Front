@@ -1,0 +1,67 @@
+.bg{
+    background-color: #454d6b;
+}
+.loginJanela{
+    background-color: #353b50;
+    width: 615px;
+    height: 700px;
+    margin-top:89px;
+    margin-left:602px;
+}
+
+.loginTitle{
+    color: #d6d7d9;
+    padding-top: 117px;
+    padding-left: 18px;
+    margin-left: 36px;
+    color: #d6d7d9;
+    font-size: 50px;
+    width: 150px;
+    height: 62px;
+    border-bottom: 3px solid;
+}
+.campos{
+    padding-top: 40px;
+    padding-left: 33px;
+}
+.usuario{
+    color: #b4c2cf;
+}
+.userInput{
+    color: aliceblue;
+    background-color: #353b50;
+    width: 520px;
+    border: 0px;
+    border-bottom: 2px solid #d6d7d9;
+}
+.senha{
+    color: #b4c2cf;
+}
+.senhainput{
+    color: aliceblue;
+    background-color: #353b50;
+    width: 512px;
+    border: 0px;
+    border-bottom: 2px solid #d6d7d9;
+}
+.botaoConfirma{
+    background-color: #a13854;
+    width: 300px;
+    height: 70px;
+    padding-left: 92px;
+    margin-top: 55px;
+    margin-left: 112px;
+
+}
+.confirm{
+   color: #bfbad7;
+   font-size: 50px;
+   margin-left: 35px ;
+}
+.ajuda{
+    color: #bac0b9;
+    font-size: 30px;
+    width: fit-content;
+    margin-left: 196px;
+    border-bottom: 2px solid;
+}
